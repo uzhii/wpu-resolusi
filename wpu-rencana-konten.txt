@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javasrcipt
   * ES6
   * Framework Javasrcipt
+- Struktur Data Dasar
 - PHP Framework
 - Interveiw
 - Vlogs
